@@ -1,7 +1,7 @@
 # Hi there, I'm Antonio Lanzolla 👋
 
 - 👔 I'm a Technical Leader, Scrum Master, Solution Architect and Senior Software Developer
-- 🌍 I'm based in Mola di Bari, Bari, Puglia the best of region in world :D
+- 🌍 I'm based in Mola di Bari, Bari, Puglia, Italy, Europe, World
 - 💬 Ask me about DevOps, Azure, .NET Core, and EF Core
 - 👨‍👩‍👧‍👧 Father of 2 wonderful children
 
