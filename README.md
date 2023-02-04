@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi there, I'm Daniel Mackay 👋
 
-<!--
-**Lanz86/Lanz86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👔 I'm a Technical Leader, Scrum Master, Solution Architect and Senior Software Developer
+- 🌍 I'm based in Mola di Bari, Bari, Puglia the best of region in world :D
+- 💬 Ask me about DevOps, Azure, .NET Core, and EF Core
+- 👨‍👩‍👧‍👧 Father of 2 wonderful children
 
-Here are some ideas to get you started:
+## How to Reach Me
+  - [Blog](https://www.antoniolanzolla.com/)
+  - [LinkedIn](https://www.linkedin.com/in/antoniolanzolla/)
+  - [Twitter](https://twitter.com/antoniolanzolla)
+  - [GitHub](https://github.com/Lanz86)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Github Stats
+        
+<a href="https://github.com/Lanz86">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lanz86&show_icons=true&theme=dark&count_private=true" alt="Antonio Lanzolla's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lanz86&theme=dark&layout=compact" 
+    alt="Antonio Lanzolla GitHub Top Languages" />
+</a>
