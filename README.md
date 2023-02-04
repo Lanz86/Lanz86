@@ -9,7 +9,9 @@
   - [Blog](https://www.antoniolanzolla.com/)
   - [LinkedIn](https://www.linkedin.com/in/antoniolanzolla/)
   - [Twitter](https://twitter.com/antoniolanzolla)
-  - [GitHub](https://github.com/Lanz86)
+  - [GitHub](https://github.com/Lanz86)  
+  - [Nuget](https://www.nuget.org/profiles/Lanz86)
+
 
 ## Github Stats
         
