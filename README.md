@@ -19,4 +19,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lanz86&show_icons=true&theme=dark&count_private=true" alt="Antonio Lanzolla's GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lanz86&theme=dark&layout=compact" 
     alt="Antonio Lanzolla GitHub Top Languages" />
-</a>
+</a> 
